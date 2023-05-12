@@ -10,10 +10,11 @@
 - Interactive elements include:
 
   - Side menu
-  - Interactive chat
+  - GSAP animations
   - Sliders
   - Modals
-  - Tabs
+  - Accordion
+  - Dropdown
 
 ## Check it out on GitHub pages! :boom:
 
