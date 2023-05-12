@@ -16,7 +16,8 @@
   - Accordion
   - Dropdown
 
-## Check it out on GitHub pages! :boom:
+## Check it out on [GitHub pages!](https://exstu.github.io/brcc/) :boom:
+
 
 
 
